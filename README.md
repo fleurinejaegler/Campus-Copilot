@@ -12,7 +12,7 @@ Someone taking several courses using different platforms (Canvas, Gradescope and
 | Practice Builder | Overnight questions, a practice exam, and a cheat sheet sized to the professor's page rules. |
 | Career Scout | Weekly jobs ranked against the resume, plus career fairs and events with dates and sign-up links. |
 
-The dashboard in [dashboard/campus-copilot.html](dashboard/campus-copilot.html) is the screen. The bots are the work. Copilot updates only the `seed()` data in that file. It does not restyle the page, and the chat box inside the page is a local demo script, not the live manager.
+The dashboard in [dashboard/campus-copilot.html](mac-app/dashboard/) is the screen. The bots are the work. Copilot updates only the `seed()` data in that file. It does not restyle the page, and the chat box inside the page is a local demo script, not the live manager.
 
 ## How we built it
 
