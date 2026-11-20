@@ -47,5 +47,8 @@ The approval list is easy to over-read. Rejecting a project deadline must not dr
 5. Ask `What's due this week?` Copilot must show Deadline Scout's table and wait. Approve one row and reject one. The `.ics` may contain only the approved row.
 6. Open the HTML file Copilot sends back. Deadline, topic, job, and fair data should match `campus-brief.md`. Sample rows stay marked stale until a worker replies for real.
 
+## Improvements
+
+7. Extension of the project to a Mac application [mac-app/](mac-app/)
 
 
