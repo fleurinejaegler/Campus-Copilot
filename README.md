@@ -32,7 +32,7 @@ Worker schedules, owned by those bots, not by Copilot:
 - Study Coach and Practice Builder, nightly 1:00am, and again 3 days before an exam.
 - Career Scout, Monday 8:00am.
 
-Paste-ready jobs are in [bots/](bots/). The message shapes Copilot can merge are in [docs/handoff-contract.md](docs/handoff-contract.md). What is actually finished is in [docs/status.md](docs/status.md).
+Paste-ready jobs are in [bots/](bots/). The message shapes Copilot can merge are in [docs/handoff-contract.md](docs/handoff-contract.md).
 
 
 The page cannot call a bot by itself. A webhook can wake Copilot, but the answer returns in the Grok Bot chat, not inside the page.
